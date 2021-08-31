@@ -1,4 +1,8 @@
-### Hi there 👋
+#### Hi there 👋  I'm Anton, a Connective Media masters student at Cornell Tech. 
+
+Currently working with the Social Technologies Lab, where I collect and analyze data related to polarization and political misinformation in social media. Interested in NLP, graphs and how emerging tech can be used for social good applications.
+
+[Find my resume and past projects here](https://abilov.com)
 
 <!--
 **anton164/anton164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
